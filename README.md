@@ -5,7 +5,13 @@ I'm passionate about **Tech, AI, and Web Development**.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mandalrishit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishit2014@gmail.com) 
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mandalrishit/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="display:inline-block; margin-right: 15px;" /></a>
+  <a href="mailto:rishit2014@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="display:inline-block; margin-right: 15px;" /></a>
+  <a href="https://instagram.com/r1shit"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="display:inline-block; margin-right: 15px;" /></a>
+</div>
+
 
 # 💻 Tech Stack:
 <p align="left">
